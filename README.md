@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/himaninihalani/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/himaninihalani/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/himaninihalani/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/himaninihalani/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/himaninihalani/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Binary Search
@@ -57,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/himaninihalani/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/himaninihalani/Leetcode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
