@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/himaninihalani/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/himaninihalani/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/himaninihalani/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/himaninihalani/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Hash Table
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/himaninihalani/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/himaninihalani/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/himaninihalani/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0229-majority-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -27,11 +29,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/himaninihalani/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/himaninihalani/Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0229-majority-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/himaninihalani/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
