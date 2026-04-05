@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/himaninihalani/Leetcode/tree/main/0179-largest-number/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/himaninihalani/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/himaninihalani/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himaninihalani/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/himaninihalani/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
