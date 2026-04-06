@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/himaninihalani/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/himaninihalani/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/himaninihalani/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himaninihalani/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Hash Table
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/himaninihalani/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/himaninihalani/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/himaninihalani/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/himaninihalani/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/himaninihalani/Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/himaninihalani/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/himaninihalani/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/himaninihalani/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/himaninihalani/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/himaninihalani/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himaninihalani/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Bit Manipulation
