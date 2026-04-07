@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/himaninihalani/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/himaninihalani/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/himaninihalani/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/himaninihalani/Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/himaninihalani/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0179-largest-number](https://github.com/himaninihalani/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/himaninihalani/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Greedy
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/himaninihalani/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0202-happy-number](https://github.com/himaninihalani/Leetcode/tree/main/0202-happy-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
