@@ -99,4 +99,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/himaninihalani/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/himaninihalani/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/himaninihalani/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
