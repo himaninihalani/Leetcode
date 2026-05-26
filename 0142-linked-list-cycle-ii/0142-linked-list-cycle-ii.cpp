@@ -11,12 +11,10 @@ public:
     ListNode *detectCycle(ListNode *head) {
        unordered_map<ListNode* , int> mpp;
        ListNode* temp=head;
-       int cnt = 0;
        while(temp!=NULL){
         if(mpp.find(temp)!=mpp.end()){
             break;
        }
-       cnt++;
        mpp[temp]++;
        temp=temp->next;
     }
