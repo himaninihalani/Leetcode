@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/himaninihalani/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0179-largest-number](https://github.com/himaninihalani/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/himaninihalani/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/himaninihalani/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/himaninihalani/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himaninihalani/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/himaninihalani/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/himaninihalani/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
