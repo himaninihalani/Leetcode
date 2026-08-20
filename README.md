@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/himaninihalani/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/himaninihalani/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/himaninihalani/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0088-merge-sorted-array](https://github.com/himaninihalani/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/himaninihalani/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/himaninihalani/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/himaninihalani/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/himaninihalani/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/himaninihalani/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/himaninihalani/Leetcode/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/himaninihalani/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himaninihalani/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/himaninihalani/Leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/himaninihalani/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/himaninihalani/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/himaninihalani/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/himaninihalani/Leetcode/tree/main/0143-reorder-list/) | Medium |
